@@ -1,0 +1,37 @@
+actor_id,firstName,secondName,gender,birthYear,nationality,heightCm,firstBondFilm,firstBondYear,ageAtCasting,bondFilms,isBond,source,initials
+sean-connery,Sean,Connery,male,1930,Scottish,188,Dr. No,1962,32,6,1,,SC
+george-lazenby,George,Lazenby,male,1939,Australian,188,On Her Majesty's Secret Service,1969,30,1,1,,GL
+roger-moore,Roger,Moore,male,1927,English,186,Live and Let Die,1973,45,7,1,,RM
+timothy-dalton,Timothy,Dalton,male,1946,Welsh,188,The Living Daylights,1987,41,2,1,,TD
+pierce-brosnan,Pierce,Brosnan,male,1953,Irish,186,GoldenEye,1995,42,4,1,,PB
+daniel-craig,Daniel,Craig,male,1968,English,178,Casino Royale,2006,38,5,1,,DC
+chris-evans,Chris,Evans,male,1981,American,183,,,,,0,,CE
+chris-pine,Chris,Pine,male,1980,American,182,,,,,0,,CP
+ryan-gosling,Ryan,Gosling,male,1980,Canadian,184,,,,,0,,RG
+bradley-cooper,Bradley,Cooper,male,1975,American,183,,,,,0,,BC
+matt-damon,Matt,Damon,male,1970,American,178,,,,,0,,MD
+brad-pitt,Brad,Pitt,male,1963,American,180,,,,,0,,BP
+george-clooney,George,Clooney,male,1961,American,180,,,,,0,,GC
+leonardo-dicaprio,Leonardo,DiCaprio,male,1974,American,183,,,,,0,,LD
+christian-bale,Christian,Bale,male,1974,Welsh,183,,,,,0,,CB
+russell-crowe,Russell,Crowe,male,1964,New Zealander,182,,,,,0,,RC
+ewan-mcgregor,Ewan,McGregor,male,1971,Scottish,180,,,,,0,,EM
+jude-law,Jude,Law,male,1972,English,178,,,,,0,,JL
+colin-firth,Colin,Firth,male,1960,English,180,,,,,0,,CF
+hugh-grant,Hugh,Grant,male,1960,English,183,,,,,0,,HG
+jason-statham,Jason,Statham,male,1967,English,175,,,,,0,,JS
+liam-neeson,Liam,Neeson,male,1952,Northern Irish,193,,,,,0,,LN
+harrison-ford,Harrison,Ford,male,1942,American,185,,,,,0,,HF
+mel-gibson,Mel,Gibson,male,1956,American,177,,,,,0,,MG
+keanu-reeves,Keanu,Reeves,male,1964,Canadian,186,,,,,0,,KR
+tom-cruise,Tom,Cruise,male,1962,American,170,,,,,0,,TC
+ben-affleck,Ben,Affleck,male,1972,American,193,,,,,0,,BA
+mark-wahlberg,Mark,Wahlberg,male,1971,American,171,,,,,0,,MW
+jake-gyllenhaal,Jake,Gyllenhaal,male,1980,American,178,,,,,0,,JG
+eric-bana,Eric,Bana,male,1968,Australian,190,,,,,0,,EB
+orlando-bloom,Orlando,Bloom,male,1977,English,180,,,,,0,,OB
+charlie-hunnam,Charlie,Hunnam,male,1980,English,185,,,,,0,,CH
+paul-bettany,Paul,Bettany,male,1971,English,183,,,,,0,,PBe
+joaquin-phoenix,Joaquin,Phoenix,male,1974,American,173,,,,,0,,JP
+jeremy-renner,Jeremy,Renner,male,1971,American,175,,,,,0,,JR
+kevin-costner,Kevin,Costner,male,1955,American,185,,,,,0,,KC

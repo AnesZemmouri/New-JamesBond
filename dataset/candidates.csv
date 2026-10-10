@@ -1,0 +1,13 @@
+actor_id,firstName,secondName,gender,birthYear,nationality,heightCm,firstBondFilm,firstBondYear,ageAtCasting,bondFilms,isBond,source,initials,isCandidate
+aaron-taylor-johnson,Aaron,Taylor-Johnson,male,1990,English,180,,,,,0,,ATJ,1
+callum-turner,Callum,Turner,male,1990,English,187,,,,,0,,CT,1
+henry-cavill,Henry,Cavill,male,1983,English,185,,,,,0,,HC,1
+harris-dickinson,Harris,Dickinson,male,1996,English,188,,,,,0,,HD,1
+idris-elba,Idris,Elba,male,1972,English,189,,,,,0,,IE,1
+jacob-elordi,Jacob,Elordi,male,1997,Australian,196,,,,,0,,JE,1
+james-norton,James,Norton,male,1985,English,185,,,,,0,,JN,1
+rege-jean-page,Regé-Jean,Page,male,1988,English,180,,,,,0,,RJP,1
+tom-holland,Tom,Holland,male,1996,English,168,,,,,0,,TH,1
+tom-hardy,Tom,Hardy,male,1977,English,175,,,,,0,,TH2,1
+theo-james,Theo,James,male,1984,English,183,,,,,0,,TJ,1
+richard-madden,Richard,Madden,male,1986,Scottish,183,,,,,0,,RM2,1
